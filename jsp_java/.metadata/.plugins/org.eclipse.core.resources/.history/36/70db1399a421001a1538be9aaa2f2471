@@ -1,0 +1,27 @@
+package dateexpire;
+
+import java.util.Date;
+
+public class medicine {
+int id;
+String name;
+Date expirydate;
+public int getId() {
+	return id;
+}
+public void setId(int mid) {
+	this.id = mid;
+}
+public String getName() {
+	return name;
+}
+public void setName(String name) {
+	this.name = name;
+}
+public Date getExpirydate() {
+	return expirydate;
+}
+public void setExpirydate(Date expirydate) {
+	this.expirydate = expirydate;
+}
+}

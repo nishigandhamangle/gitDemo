@@ -1,0 +1,19 @@
+package Daate;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class DaateDao {
+	public static Connection getConnection()
+	{
+		Connection con=null;
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			con=DriverManager.getConnection("jdbc:mysql://192.168.100.26:3306/group025","group025","welcome");
+		}catch(Exception e1)
+		{
+			System.out.println(e1);
+		}
+		return con;
+	}
+}

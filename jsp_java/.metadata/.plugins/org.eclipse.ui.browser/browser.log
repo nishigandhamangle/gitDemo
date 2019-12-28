@@ -1,0 +1,16 @@
+
+Nov 20, 2019 17:51:19.94 NEW SESSION
+Nov 20, 2019 17:51:19.94 [12032:10968:1120/175119.792:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+Nov 22, 2019 07:38:40.23 NEW SESSION
+Nov 22, 2019 07:38:40.23 [10216:6512:1122/073840.231:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+Dec 02, 2019 19:35:31.05 NEW SESSION
+Dec 02, 2019 19:35:31.05 [2216:5140:1202/193531.047:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Dec 02, 2019 19:41:19.95 [6060:10152:1202/194119.957:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+Dec 02, 2019 20:51:57.71 NEW SESSION
+Dec 02, 2019 20:51:57.71 [12716:1792:1202/205157.715:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+Dec 19, 2019 09:13:49.37 NEW SESSION
+Dec 19, 2019 09:13:49.37 [19764:20124:1219/091349.377:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
