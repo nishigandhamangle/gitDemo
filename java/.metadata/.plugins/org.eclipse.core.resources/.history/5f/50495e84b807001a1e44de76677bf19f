@@ -1,0 +1,68 @@
+package Q46;
+
+import java.util.Scanner;
+
+public class Employee {
+	int empid;
+	String name;
+	double sal;
+	Scanner s = new Scanner(System.in);
+	
+	public Employee() {
+		super();
+	}
+	public void accept()
+	{
+		System.out.println("Enter empid,name,sal");
+		empid=s.nextInt();
+		name=s.next();
+		sal=s.nextDouble();
+		
+	}
+	@Override
+	public String toString() {
+		return "Employee [empid=" + empid + ", name=" + name + ", sal=" + sal + ", s=" + s + "]";
+	}
+
+	public boolean equals(Object obj) {
+		Employee emp = (Employee)obj;
+		if(this==emp)
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	
+	}
+	public static void main(String[] args) {
+		Employee e[]=new Employee[2];
+		Scanner s = new Scanner(System.in);
+		System.out.println("enter employee info");
+		for(int i=0;i<2;i++)
+		{
+			e[i]=new Employee();
+			e[i].accept();
+		}
+		for(int i=0;i<2;i++)
+		{
+			for(int j=1;j<=2;j++)
+			{
+				System.out.println(1);
+				System.out.println(e[j]);
+		if(e[i].equals(e[j]))1
+				
+		{
+			System.out.println("employee already present");
+			
+		}
+			}
+			
+		}
+		
+	}
+	
+	
+
+}

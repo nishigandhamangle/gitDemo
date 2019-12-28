@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Dec 24 20:06:20 IST 2019
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\group025\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper\\8.5.12\\tomcat-jasper-8.5.12.jar=WEB-INF/lib/tomcat-jasper-8.5.12.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\group025\\.m2\\repository\\org\\springframework\\spring-web\\4.3.11.RELEASE\\spring-web-4.3.11.RELEASE.jar=WEB-INF/lib/spring-web-4.3.11.RELEASE.jar

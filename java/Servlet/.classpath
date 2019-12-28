@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ServletDemo/src"/>
+	<classpathentry kind="src" path="ServletDemo1/src"/>
+	<classpathentry kind="src" path="ServletFormValidation/src"/>
+	<classpathentry kind="src" path="ServletProgram/src"/>
+	<classpathentry kind="lib" path=".metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/servlet1/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path=".metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ServletFormValidation/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="servlet-api.jar"/>
+	<classpathentry kind="lib" path="servlet1/WebContent/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="ServletFormValidation/WebContent/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path=".metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ServletFormValidation/WEB-INF/classes"/>
+</classpath>

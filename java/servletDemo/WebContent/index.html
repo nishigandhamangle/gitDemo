@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script type="text/javascript">
+function callServlet()
+{
+var servletname=document.form1.register.value;
+if(servletname=="")
+{
+alert("no value");
+return false;
+
+}
+else
+{
+alert("value"+servletname);
+document.location.href="register.html";
+return false;
+}
+}
+</script>
+</head>
+<body>
+<form name="form1" action="LoginServlet" method="post">
+<table>
+<tr>
+<td>Username</td>
+<td><input type="text" name="txtUsername"></td>
+</tr>
+<tr>
+<td>Password</td>
+<td><input type="password" name="txtPassword"></td>
+</tr>
+<tr>
+<td><input type="submit" value="Login"></td>
+<td><input type="button" value="Register" onclick="return callServlet();" name="register"></td>
+</tr>
+</table></form>
+</body>
+</html>

@@ -1,0 +1,66 @@
+
+Nov 18, 2019 14:39:53.20 NEW SESSION
+Nov 18, 2019 14:39:53.70 [7712:8188:1118/143953.197:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Nov 18, 2019 14:39:53.70 [7712:8188:1118/143953.215:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Nov 18, 2019 14:40:07.01 [7712:12124:1118/144007.012:ERROR:shared_change_processor.cc(196)] Passwords datatype error was encountered: Change processor disconnected.
+Nov 18, 2019 14:41:40.10 [8588:4216:1118/144140.102:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Nov 18, 2019 14:41:46.30 [8588:2256:1118/144146.301:ERROR:shared_change_processor.cc(196)] Passwords datatype error was encountered: Change processor disconnected.
+Nov 18, 2019 14:41:49.83 [11872:9536:1118/144149.839:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Nov 18, 2019 14:41:55.78 [11872:5508:1118/144155.781:ERROR:shared_change_processor.cc(196)] Passwords datatype error was encountered: Change processor disconnected.
+Nov 18, 2019 14:41:58.05 [5500:8648:1118/144158.051:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Nov 18, 2019 14:42:05.14 [5500:7624:1118/144205.140:ERROR:shared_change_processor.cc(196)] Passwords datatype error was encountered: Change processor disconnected.
+Nov 18, 2019 14:50:53.37 [9188:5836:1118/145053.379:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Nov 18, 2019 15:00:17.32 [1776:9184:1118/150017.319:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Nov 18, 2019 15:01:35.49 [6356:6932:1118/150135.499:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Nov 18, 2019 15:03:05.91 [10212:10692:1118/150305.916:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Nov 18, 2019 15:07:06.03 [9464:10584:1118/150706.034:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Nov 18, 2019 15:11:17.54 [292:240:1118/151117.547:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Nov 18, 2019 15:16:56.87 [9232:7276:1118/151656.871:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Nov 18, 2019 15:22:57.69 [11800:12136:1118/152257.694:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Nov 18, 2019 15:41:31.48 [4192:7868:1118/154131.484:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Nov 18, 2019 15:56:20.00 [9328:6628:1118/155620.008:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Nov 18, 2019 16:35:20.89 [9328:3232:1118/163520.890:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 18, 2019 17:07:08.02 [9328:3232:1118/170708.026:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 18, 2019 17:38:13.22 [9328:3232:1118/173813.220:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 18, 2019 18:10:31.36 [9328:3232:1118/181031.365:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 18, 2019 18:41:19.45 [9328:3232:1118/184119.450:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 18, 2019 19:06:25.76 [9328:3232:1118/190625.765:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 18, 2019 19:08:19.72 [9328:3232:1118/190819.723:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 18, 2019 19:09:37.82 [9328:3232:1118/190937.824:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 18, 2019 19:11:21.13 [9328:3232:1118/191121.138:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 18, 2019 19:16:51.91 [9328:3232:1118/191651.915:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 18, 2019 19:20:32.60 [9328:3232:1118/192032.602:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 18, 2019 22:53:37.69 [9328:3232:1118/225337.691:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 18, 2019 22:54:07.65 [9328:3232:1118/225407.654:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -7
+Nov 18, 2019 23:24:34.39 [9328:3232:1118/232434.397:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 18, 2019 23:57:34.86 [9328:3232:1118/235734.783:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 24:01:20.13 [9328:3232:1118/235736.624:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+Nov 19, 2019 24:31:41.31 [9328:3232:1119/003141.316:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 01:06:40.88 [9328:3232:1119/010640.886:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 01:42:42.91 [9328:3232:1119/014242.918:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 02:16:44.95 [9328:3232:1119/021644.952:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 02:51:46.36 [9328:3232:1119/025146.363:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 03:26:48.36 [9328:3232:1119/032648.362:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 04:01:49.23 [9328:3232:1119/040149.237:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 04:36:52.38 [9328:3232:1119/043652.389:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 05:11:54.55 [9328:3232:1119/051154.550:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 05:46:55.84 [9328:3232:1119/054655.842:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 06:21:58.67 [9328:3232:1119/062158.669:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 06:26:33.38 [9328:3232:1119/062633.381:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 19, 2019 07:13:30.75 [9328:3232:1119/071330.749:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 07:47:02.90 [9328:3232:1119/074702.907:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 08:18:03.94 [9328:3232:1119/081803.946:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 08:48:55.32 [9328:3232:1119/084855.327:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 09:19:46.64 [9328:3232:1119/091946.645:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 09:50:38.11 [9328:3232:1119/095038.116:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 10:21:29.48 [9328:3232:1119/102129.488:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 10:52:20.81 [9328:3232:1119/105220.816:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 11:23:12.20 [9328:3232:1119/112312.207:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 12:40:19.65 [9328:3232:1119/124019.657:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 12:40:55.38 [9328:3232:1119/124055.385:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 19, 2019 13:21:22.63 [9328:3232:1119/132122.630:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 13:39:50.44 [9328:3232:1119/133950.439:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+Dec 18, 2019 14:25:51.55 NEW SESSION
+Dec 18, 2019 14:25:51.55 [13344:19928:1218/142551.406:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Dec 18, 2019 14:32:42.78 [19176:1296:1218/143242.776:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
